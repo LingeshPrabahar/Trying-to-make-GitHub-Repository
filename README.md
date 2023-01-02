@@ -3,7 +3,8 @@ EEE123 – COMPUTER PROGRAMMING FOR ENGINEERS
 Semester I - 2022/2023
 Mini Project GROUP 3
 
- WHAT ARE INVOLVED IN THIS PROJECT?
+ WHAT ARE INVOLVED IN THIS PROJECT ?
+ 
 • Research work (search for necessary information regarding the project, additional C++ 
 commands, functions and code segments not taught by lecturer due to time constraint)
 • Program writing (code your solution)
